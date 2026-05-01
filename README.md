@@ -16,5 +16,5 @@ A public repo where developers do what they've always wanted to do —
 delete everything, break the CI, rename main to chaos, commit garbage,
 write poetry in Python files, or just say something to the void.
 
-**We merge everything.** No PR gets closed.
+**We merge everything.**No PR gets rejected.
 Your chaos is valid here.
